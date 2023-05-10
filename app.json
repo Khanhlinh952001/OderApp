@@ -1,18 +1,15 @@
 {
   "expo": {
-    "name": "VgoHomes",
-    "slug": "snack-bc4cd836-f19b-498a-83a4-01cfb08b3e1c",
+    "name": "FixAppOder",
+    "slug": "FixAppOder",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./Component/Home/Img/shipper.png",
+      "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "green"
-    },
-    "updates": {
-      "fallbackToCacheTimeout": 0
+      "backgroundColor": "#ffffff"
     },
     "assetBundlePatterns": [
       "**/*"
@@ -22,8 +19,8 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./Component/Home/Img/shipper.png",
-        "backgroundColor": "green"
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
       }
     },
     "web": {
